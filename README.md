@@ -14,6 +14,6 @@ Read more here: https://www.php.net/manual/en/functions.anonymous.php
 
 #### Inheritance
 
-<https://www.phptutorial.net/php-oop/php-inheritance/>
+Read more..(https://www.phptutorial.net/php-oop/php-inheritance)
 
 

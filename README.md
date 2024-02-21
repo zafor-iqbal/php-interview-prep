@@ -12,6 +12,8 @@ Read more here: https://www.php.net/manual/en/functions.anonymous.php
 
 ### OOP
 
-Inheritance
------------
+#### Inheritance
+
+<https://www.phptutorial.net/php-oop/php-inheritance/>
+
 

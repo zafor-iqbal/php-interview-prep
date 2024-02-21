@@ -10,5 +10,8 @@ All php concepts to get ready for your job
 Read more here: https://www.php.net/manual/en/functions.anonymous.php
 
 
+### OOP
 
+Inheritance
+-----------
 

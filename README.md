@@ -2,10 +2,10 @@
 All php concepts to get ready for your job
 
 
-### Basic Concepts ###
+### Basic Concepts 
 
-### Functions ###
+### Functions 
 
-### Array ###
+### Array 
 
 

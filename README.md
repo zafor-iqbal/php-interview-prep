@@ -37,7 +37,9 @@ final
 #### Functions 
 
 filter()
+
 sanitize()
+
 validate()
 
 #### One Liners 

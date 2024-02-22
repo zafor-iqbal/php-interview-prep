@@ -46,11 +46,9 @@ validate()
 ### PHP Constants 
 
 <code>
-const CONSTANT_NAME = value;
-
-define( 'ORIGIN', [0, 0] );
-
-define('WIDTH','1140px');
+ const CONSTANT_NAME = value;
+ define( 'ORIGIN', [0, 0] );
+ define('WIDTH','1140px');
 </code>
 
 #### One Liners 

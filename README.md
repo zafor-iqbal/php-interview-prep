@@ -34,4 +34,17 @@ final
 #### Magic Methods 
 
 
+#### Functions 
+
+filter()
+sanitize()
+validate()
+
+#### One Liners 
+
+1. PHP has four types of variable scopes including local, global, static, and function parameters.
+
+
+
+
 

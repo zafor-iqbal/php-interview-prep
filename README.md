@@ -50,6 +50,12 @@ validate()
  define('WIDTH','1140px');
 </code>
 
+**Summary**
+* A constant is a name that holds a simple value that cannot be changed during the execution of the script. From PHP 7, a constant can hold an array.
+* A constant can be accessed from anywhere in the script.
+* Use the define() function or const keyword to define a constant.
+* Use the define() function if you want to define a constant conditionally or using an expression.
+
 #### One Liners 
 
 1. PHP has four types of variable scopes including local, global, static, and function parameters.

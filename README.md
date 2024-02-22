@@ -44,7 +44,6 @@ validate()
 
 
 ### PHP Constants 
-
 <code>
  const CONSTANT_NAME = value;
  define( 'ORIGIN', [0, 0] );

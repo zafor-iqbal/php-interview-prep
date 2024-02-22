@@ -45,6 +45,7 @@ validate()
 #### One Liners 
 
 1. PHP has four types of variable scopes including local, global, static, and function parameters.
+2. Like superglobal variables, you can access constants from anywhere in the script.
 
 
 

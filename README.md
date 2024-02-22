@@ -12,8 +12,26 @@ All php concepts to get ready for your job
 
 ### OOP
 
-#### Inheritance
+#### Inheritances
 
-[Read more here..](https://www.phptutorial.net/php-oop/php-inheritance)
+[Inheritance](https://www.phptutorial.net/php-oop/php-inheritance)
+[Calling the Parent Constructor](https://www.phptutorial.net/php-oop/php-call-parent-constructor/)
+[Overriding Methods](https://www.phptutorial.net/php-oop/php-override-method/)
+[The protected Keyword](https://www.phptutorial.net/php-oop/php-protected/)
+
+#### Keywords / Access Modifieres 
+
+public 
+
+private
+
+protected 
+
+final 
+
+`$this 
+
+#### Magic Methods 
+
 
 

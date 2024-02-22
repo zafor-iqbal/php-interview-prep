@@ -43,7 +43,7 @@ sanitize()
 validate()
 
 
-### PHP Constants 
+### PHP Constant [Define] 
 <code>
  const CONSTANT_NAME = value;
  define( 'ORIGIN', [0, 0] );

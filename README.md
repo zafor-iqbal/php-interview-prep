@@ -42,6 +42,17 @@ sanitize()
 
 validate()
 
+
+### PHP Constants 
+
+<code>
+const CONSTANT_NAME = value;
+
+define( 'ORIGIN', [0, 0] );
+
+define('WIDTH','1140px');
+</code>
+
 #### One Liners 
 
 1. PHP has four types of variable scopes including local, global, static, and function parameters.
